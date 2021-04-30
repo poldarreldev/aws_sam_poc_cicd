@@ -1,3 +1,7 @@
+# POC #8
+
+This project is a POC for CI/CD using AWS Serverless Application Model
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
